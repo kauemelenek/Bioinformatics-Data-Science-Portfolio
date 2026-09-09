@@ -1,0 +1,17 @@
+📌 Visão Geral do Projeto:
+
+Estudo exploratório e estatístico sobre a diversidade estrutural, especificidade de ligação a carboidratos e propriedades físico-químicas de lectinas de diferentes origens taxonômicas.
+
+⚙️ Metodologia:
+
+Coleta e estruturação de dados proteicos de lectinas a partir de bases públicas (UniProt / PDB).
+
+Análise exploratória de dados (EDA) focada na correlação entre composição de aminoácidos, hidrofobicidade e afinidade de ligação.
+
+Visualização de dados estatística (distribuições, matrizes de correlação e mapas de calor).
+
+📊 Principais Resultados:
+
+Mapeamento dos padrões físico-químicos associados aos sítios de reconhecimento de carboidratos (CRDs).
+
+Identificação de marcadores estruturais relevantes para a classificação funcional de lectinas.
